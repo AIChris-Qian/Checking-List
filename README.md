@@ -1,7 +1,7 @@
 # 互联网数据分析技能必备清单
   by Chen Qian
 
-**[概率与统计](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1)**
+**[概率与统计](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1)**    
 ------------------------------
 
 
