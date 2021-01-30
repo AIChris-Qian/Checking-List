@@ -13,11 +13,10 @@
     计量尺度：分类数据 / 顺序数据 / 数值型数据
 
 1.3 统计中的几个基本概念
-
-    总体 / 样本
     
+    总体 
+    参数：描述总体特征
 
-![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
+![](http://latex.codecogs.com/gif.latex?\\mu)
 
     
-
