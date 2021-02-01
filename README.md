@@ -1,7 +1,7 @@
 # 互联网数据分析技能必备清单
   by Chen Qian
 
-**概率与统计**    
+**`概率与统计`**    
 ------------------------------
 [点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1)
 
@@ -29,7 +29,7 @@
 #### 8. [ 假设检验 ]
    `基本问题 / 一个总体参数的检验 / 两个总体参数的检验`
 
-**机器学习**
+**`机器学习`**
 ------------------------------
 [点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
@@ -62,12 +62,12 @@
 #### 9. [ 集成学习 ]
    `基分类器 / Boosting / Bagging / Adaboost / 随机森林 / 偏差 / 方差 / GBDT / XGBoost`
 
-**SQL编程**
+**`SQL编程`**
 ------------------------------
 [点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/SQL%E7%BC%96%E7%A8%8B)
 
 
-**业务分析**
+**`业务分析`**
 ------------------------------
 [点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E4%B8%9A%E5%8A%A1%E5%88%86%E6%9E%90)
 
