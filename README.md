@@ -34,7 +34,7 @@
 [点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
 #### 1. [ 特征工程 ]
-   `特征归一化 / 类别型特征`
+   `特征归一化 / 类别型特征 / 组合特征`
 
 #### 2. [ 模型评估 ]
    `准确率 / 精确率 / 召回率 / 均方根误差 / ROC曲线 / AUC / P-R曲线`
