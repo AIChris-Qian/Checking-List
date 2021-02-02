@@ -82,7 +82,7 @@
     repeat(str,x) 返回字符串 str 重复 x 次
  
     
-#### 04 聚合运算
+#### 05 聚合运算
 
     count() null和空值不计入，空格计入   sum()  avg()   max()    min()
     var_pop() 总体方差   var_samp() 样本方差
@@ -108,3 +108,78 @@
 ------------------------------
 
 #### 01 获取当前时刻的数据
+     
+   日期和时间：`now()`  
+   
+   日期：`curdate() = date(now()) / year(now) / month(now()) / day(now())`
+   
+   时间：`curtime() = time(now()) / hour(now) / mintues(now()) / second(now())`
+   
+   周数：`weekofyear(now()) / dayofweek(now())`
+   
+#### 02 日期和时间运算
+
+    date_add(date,interval num unit)      date_sub(date,interval num unit)        datediff(end_date,start_date)
+
+
+**6. [ 数据分组与数据透视表 ]**    
+------------------------------
+
+#### 01  对分组后的数据进行聚合运算
+
+    select 聚合运算 from table group by XXX
+    
+#### 02  对聚合后的数据进行条件筛选
+     
+     having   group_concat()   group by XXX with rollup
+
+#### 03  数据透视表
+     
+     行列互换
+     
+**7. [ 窗口函数 ]**    
+------------------------------
+
+#### 01  聚合函数 + over() 函数
+
+    avg(XXX) over()
+    
+#### 02  partition by 子句
+     
+     avg(XXX) over(partition by XXX)
+
+#### 03  order by 子句
+     
+     avg(XXX) over(partition by XXX order by XXX)
+     
+#### 04  序列函数
+     
+     ntile(X)   分成 x 组
+     row_number()   123  rank()  113   dense_rank()  112
+     lag(XXX,1)   向后移动一位     lead(XXX,1)    向前移动一位 
+     
+     
+     
+**8. [ 多表连接 ]**    
+------------------------------
+
+#### 01  表的横向连接
+
+    left join / right join / inner join / outer join 
+    
+#### 01  表的纵向连接
+
+    union：纵向连接删除重复值
+    union all：纵向连接不进行任何处理
+     
+     
+ **9. [ 子查询 ]**    
+------------------------------
+
+#### 01  子查询的分类
+
+    select 子查询
+    from 子查询
+    where 子查询 
+    with 建立临时表
+     
