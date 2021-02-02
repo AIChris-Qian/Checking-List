@@ -167,7 +167,7 @@
 
     left join / right join / inner join / outer join 
     
-#### 01  表的纵向连接
+#### 02  表的纵向连接
 
     union：纵向连接删除重复值
     union all：纵向连接不进行任何处理
