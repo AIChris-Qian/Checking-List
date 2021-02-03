@@ -10,7 +10,7 @@
 ------------------------------
 
 
-[点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1)
+[点击进入 - 概率与统计](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1)
 
 #### 1. [ 导论 ]
    `数据类型 / 统计概念`
@@ -41,7 +41,7 @@
 
 **`[ 机器学习 ]`**
 ------------------------------
-[点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+[点击进入 - 机器学习](https://github.com/AIChris-Qian/Checking-List/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
 #### 1. [ 特征工程 ]
    `特征归一化 / 类别型特征 / 组合特征`
@@ -78,7 +78,7 @@
 
 **`[ SQL编程 ]`**
 ------------------------------
-[点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/SQL%E7%BC%96%E7%A8%8B)
+[点击进入 - SQL编程](https://github.com/AIChris-Qian/Checking-List/tree/main/SQL%E7%BC%96%E7%A8%8B)
 
 #### 1. [ 数据的获取 ]
 
@@ -128,5 +128,5 @@
 
 **`[ 业务分析 ]`**
 ------------------------------
-[点击进入](https://github.com/AIChris-Qian/Checking-List/tree/main/%E4%B8%9A%E5%8A%A1%E5%88%86%E6%9E%90)
+[点击进入 - 业务分析](https://github.com/AIChris-Qian/Checking-List/tree/main/%E4%B8%9A%E5%8A%A1%E5%88%86%E6%9E%90)
 
