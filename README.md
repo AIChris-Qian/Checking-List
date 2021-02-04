@@ -137,7 +137,8 @@
 
 #### 2. [ 产品上线注意的指标 ]
 
-   `Acquisition（获取） / Activation（激活） / Retention（留存） / Revenue（收入） / Referral（自传播） / Recall（召回）`
+   `Acquisition（获取） / Activation（激活） / Retention（留存）`
+   `Revenue（收入） / Referral（自传播） / Recall（召回）`
    
 #### 3. [ 搭建指标体系 ]
 
@@ -150,7 +151,8 @@
 
 #### 5. [ 指标拆解 ]
 
-`DAU (日活跃用户数量) / GMV (总消费额) / LTV (生命周期总价值) / ROI (投资回报率) / CAC (单个用户的获取成本) / 病毒因子`
+`DAU (日活跃用户数量) / GMV (总消费额) / LTV (生命周期总价值)` 
+`ROI (投资回报率) / CAC (单个用户的获取成本) / 病毒因子`
 
 #### 6. [ 分析指标变动及原因 ]
 
