@@ -46,15 +46,15 @@
 **2. `[ 产品上线注意的指标 ]`**    
 ------------------------------
 
-AARRRR：Acquisition（获取） / Activation（激活） / Retention（留存） / Revenue（收入） / Referral（自传播） / Recall（召回）
+    AARRRR：Acquisition（获取） / Activation（激活） / Retention（留存） / Revenue（收入） / Referral（自传播） / Recall（召回）
 
 #### 2.1 获取用户：
 
-   `DNU (日新增用户) / CAC (用户获取成本) / ROI (投资回报率)`
+   `浏览量 / 点击量 / 下载量 / DNU (日新增用户) / CAC (用户获取成本) / ROI (投资回报率)`
 
 #### 2.2 提高活跃度：
 
-   `DAU (日活跃用户) / MAU（月活跃用户） / 使用时长 / 使用次数 / PV / UV`
+   `DAU (日活跃用户) / MAU（月活跃用户） / 在线使用时长 / 在线使用次数 / PV / UV`
 
 #### 2.3 提高留存率：
 
@@ -72,6 +72,14 @@ AARRRR：Acquisition（获取） / Activation（激活） / Retention（留存�
 
    `流失用户数 / 召回数` 
    
+
+
+------------------------------
+
+
+
+
+
 
 
 
