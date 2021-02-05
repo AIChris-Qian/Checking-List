@@ -137,9 +137,7 @@
 
 #### 2. [ 产品上线注意的指标 ]
 
-   `Acquisition（获取） / Activation（激活） / Retention（留存）`
-   
-   `Revenue（收入） / Referral（自传播） / Recall（召回）`
+   `Acquisition (获取) / Activation (激活) / Retention (留存) / Revenue (收入) / Referral (自传播) / Recall (召回)`
    
 #### 3. [ 搭建指标体系 ]
 
